@@ -1,14 +1,14 @@
 public class sortalgo {
-    static int[] a = { 5, 1, 54, 2, 0, 22, 13, 14, 64 };
-    static int n = a.length;
-
+   
     public static void main(String[] args) {
+           int[] a = { 54, 2, 0, 22, 13, 64 };
+            int n = a.length;
         System.out.println("The array is :");
         for (int i = 0; i < n; i++) {
             System.out.print(a[i] + "\t");
         }
-        System.err.println();
-        sort(0, n - 1);
+        System.out.println();
+        a=sort(a,0, n - 1);
 
         System.out.println("The sorted array is :");
         for (int i = 0; i < n; i++) {
@@ -17,35 +17,35 @@ public class sortalgo {
 
     }
 
-    static void sort(int l, int h) {
+    static int[] sort(int[] arr,int l, int h) {
 
         if (!(l < h)) {
-            return;
+            return arr;
         }
 
-        int max = a[l];
-        int min = a[h];
+        int max = arr[l];
+        int min = arr[l];
         int maxindex = l;
         int minindex = l;
         for (int i = l; i <= h; i++) {
-            if (a[i] > max) {
-                max = a[i];
+            if (arr[i] > max) {
+                max = arr[i];
                 maxindex = i;
-            } else if (a[i] < min) {
-                min = a[i];
+            } else if (arr[i] < min) {
+                min = arr[i];
                 minindex = i;
 
             }
 
         }
 
-        a[minindex] = a[l];
-        a[l] = min;
+        arr[minindex] = arr[l];
+        arr[l] = min;
 
-        a[maxindex] = a[h];
-        a[h] = max;
+        arr[maxindex] = arr[h];
+        arr[h] = max;
 
-        sort(l + 1, h - 1);
+        return sort(arr,l + 1, h - 1);
 
     }
 }

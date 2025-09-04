@@ -1,4 +1,3 @@
-//package SearchandSort;
 
 import java.util.Scanner;
 
