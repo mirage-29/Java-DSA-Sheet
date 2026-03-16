@@ -1,4 +1,4 @@
-package Sliding_Window;
+package Arrays.Sliding_Window;
 import java.util.*;
 
 public class ContainsDuplicate {

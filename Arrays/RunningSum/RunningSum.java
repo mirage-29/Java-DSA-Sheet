@@ -1,4 +1,4 @@
-package RunningSum;
+package Arrays.RunningSum;
 
 public class RunningSum {
     static void main(String[] args) {
