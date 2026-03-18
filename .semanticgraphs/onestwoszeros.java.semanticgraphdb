@@ -1,192 +1,0 @@
-
-onestwoszeros.java‰
-onestwoszerosCLASS
-onestwoszeros.java ("
-packageonestwoszeros"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"k
-declarationStringV<mark class="modifier">public </mark><mark class="modifier">class </mark>onestwoszeros"
-accesspublic*onestwoszeros2I
-onestwoszeros.main(String[])DECLARATION
-onestwoszeros.java (ˇ#
-onestwoszeros.main(String[])METHOD
-onestwoszeros.java ("
-isFinalfalse"≤
-declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
-isStatictrue"
-accesspublic"
-
-isAbstractfalse"
-typevoid*main2N
-(onestwoszeros.main(String[])?n@5.15:5.16CALL
-onestwoszeros.java (	2O
-)onestwoszeros.main(String[])?sc@4.16:4.18CALL
-onestwoszeros.java (2N
-(onestwoszeros.main(String[])?n@5.15:5.16CALL
-onestwoszeros.java	 	(2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java (2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java (2N
-(onestwoszeros.main(String[])?n@5.15:5.16CALL
-onestwoszeros.java (2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java (2N
-(onestwoszeros.main(String[])?a@9.12:9.15CALL
-onestwoszeros.java (2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java (2O
-)onestwoszeros.main(String[])?sc@4.16:4.18CALL
-onestwoszeros.java (2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java (2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java (2N
-(onestwoszeros.main(String[])?n@5.15:5.16CALL
-onestwoszeros.java (2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java (2N
-(onestwoszeros.main(String[])?a@9.12:9.15CALL
-onestwoszeros.java (2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java ( 2N
-(onestwoszeros.main(String[])?a@9.12:9.15CALL
-onestwoszeros.java (2P
-*onestwoszeros.main(String[])?j@20.17:20.18CALL
-onestwoszeros.java (2U
-/onestwoszeros.main(String[])?count0@19.12:19.18CALL
-onestwoszeros.java (2U
-/onestwoszeros.main(String[])?count1@19.24:19.30CALL
-onestwoszeros.java (2U
-/onestwoszeros.main(String[])?count2@19.36:19.42CALL
-onestwoszeros.java (2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java! !(2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java! !(2N
-(onestwoszeros.main(String[])?n@5.15:5.16CALL
-onestwoszeros.java! !(2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java! !(2U
-/onestwoszeros.main(String[])?count0@19.12:19.18CALL
-onestwoszeros.java" "(2N
-(onestwoszeros.main(String[])?a@9.12:9.15CALL
-onestwoszeros.java# #(2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java# #(2U
-/onestwoszeros.main(String[])?count0@19.12:19.18CALL
-onestwoszeros.java$ $(2U
-/onestwoszeros.main(String[])?count1@19.24:19.30CALL
-onestwoszeros.java% %(2N
-(onestwoszeros.main(String[])?a@9.12:9.15CALL
-onestwoszeros.java& &(2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java& &(2U
-/onestwoszeros.main(String[])?count1@19.24:19.30CALL
-onestwoszeros.java' '(2N
-(onestwoszeros.main(String[])?a@9.12:9.15CALL
-onestwoszeros.java) )(2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java) )(2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java- -(2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java- -(2N
-(onestwoszeros.main(String[])?n@5.15:5.16CALL
-onestwoszeros.java- -(2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java- -(2N
-(onestwoszeros.main(String[])?a@9.12:9.15CALL
-onestwoszeros.java. .(2N
-(onestwoszeros.main(String[])?i@5.12:5.13CALL
-onestwoszeros.java. .( 2O
-)onestwoszeros.main(String[])?sc@4.16:4.18CALL
-onestwoszeros.java0 0(
-2L
-!onestwoszeros.main(String[])!args	PARAMETER
-onestwoszeros.java% ()2V
-)onestwoszeros.main(String[])?sc@4.16:4.18DECLARATION
-onestwoszeros.java (2U
-(onestwoszeros.main(String[])?i@5.12:5.13DECLARATION
-onestwoszeros.java (2U
-(onestwoszeros.main(String[])?n@5.15:5.16DECLARATION
-onestwoszeros.java (2U
-(onestwoszeros.main(String[])?a@9.12:9.15DECLARATION
-onestwoszeros.java	 	(2\
-/onestwoszeros.main(String[])?count0@19.12:19.18DECLARATION
-onestwoszeros.java (2\
-/onestwoszeros.main(String[])?count1@19.24:19.30DECLARATION
-onestwoszeros.java (2\
-/onestwoszeros.main(String[])?count2@19.36:19.42DECLARATION
-onestwoszeros.java$ (*2W
-*onestwoszeros.main(String[])?j@20.17:20.18DECLARATION
-onestwoszeros.java (21
-voidRETURN_TYPE
-onestwoszeros.java (≠
-)onestwoszeros.main(String[])?sc@4.16:4.18VARIABLE
-onestwoszeros.java ("
-typeScanner"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc27
-java.util.ScannerTYPE
-onestwoszeros.java (ô
-(onestwoszeros.main(String[])?i@5.12:5.13VARIABLE
-onestwoszeros.java ("
-typeint"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark>*i2)
-intTYPE
-onestwoszeros.java (ô
-(onestwoszeros.main(String[])?n@5.15:5.16VARIABLE
-onestwoszeros.java ("
-typeint"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark>*n2)
-intTYPE
-onestwoszeros.java (ö
-(onestwoszeros.main(String[])?a@9.12:9.15VARIABLE
-onestwoszeros.java	 	("
-typeint"
-isFinalfalse"¶
-declarationStringê<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">a</mark> = new <mark class="modifier">int</mark>[n]*a2+
-int[]TYPE
-onestwoszeros.java	 	(2N
-(onestwoszeros.main(String[])?n@5.15:5.16CALL
-onestwoszeros.java	 	(»
-/onestwoszeros.main(String[])?count0@19.12:19.18VARIABLE
-onestwoszeros.java ("
-typeint"
-isFinalfalse"ö
-declarationStringÑ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">count0</mark> = 0, count1 = 0, count2 = 0*count02)
-intTYPE
-onestwoszeros.java (»
-/onestwoszeros.main(String[])?count1@19.24:19.30VARIABLE
-onestwoszeros.java ("
-typeint"
-isFinalfalse"ö
-declarationStringÑ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">count1</mark> = 0, count1 = 0, count2 = 0*count12)
-intTYPE
-onestwoszeros.java (»
-/onestwoszeros.main(String[])?count2@19.36:19.42VARIABLE
-onestwoszeros.java$ (*"
-typeint"
-isFinalfalse"ö
-declarationStringÑ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">count2</mark> = 0, count1 = 0, count2 = 0*count22)
-intTYPE
-onestwoszeros.java (õ
-*onestwoszeros.main(String[])?j@20.17:20.18VARIABLE
-onestwoszeros.java ("
-typeint"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark>*j2)
-intTYPE
-onestwoszeros.java ( 
-!onestwoszeros.main(String[])!args	PARAMETER
-onestwoszeros.java% ()"
-typeString[]"
-isFinalfalse""
-declarationStringString[] args*args2.
-String[]TYPE
-onestwoszeros.java ($

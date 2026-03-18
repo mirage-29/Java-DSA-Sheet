@@ -1,186 +1,0 @@
-
-maxmin.java≥
-maxminCLASS
-maxmin.java ("
-packagemaxmin"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"d
-declarationStringO<mark class="modifier">public </mark><mark class="modifier">class </mark>maxmin"
-accesspublic*maxmin2;
-maxmin.main(String[])DECLARATION
-maxmin.java (‚
-maxmin.main(String[])METHOD
-maxmin.java ("
-isFinalfalse"≤
-declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
-isStatictrue"
-accesspublic"
-
-isAbstractfalse"
-typevoid*main2@
-!maxmin.main(String[])?n@5.15:5.16CALL
-maxmin.java (	2A
-"maxmin.main(String[])?sc@4.16:4.18CALL
-maxmin.java (2@
-!maxmin.main(String[])?n@5.15:5.16CALL
-maxmin.java	 	(2@
-!maxmin.main(String[])?i@5.12:5.13CALL
-maxmin.java (2@
-!maxmin.main(String[])?i@5.12:5.13CALL
-maxmin.java (2@
-!maxmin.main(String[])?n@5.15:5.16CALL
-maxmin.java (2@
-!maxmin.main(String[])?i@5.12:5.13CALL
-maxmin.java (2@
-!maxmin.main(String[])?a@9.12:9.15CALL
-maxmin.java (2@
-!maxmin.main(String[])?i@5.12:5.13CALL
-maxmin.java (2A
-"maxmin.main(String[])?sc@4.16:4.18CALL
-maxmin.java (2@
-!maxmin.main(String[])?a@9.12:9.15CALL
-maxmin.java (2@
-!maxmin.main(String[])?a@9.12:9.15CALL
-maxmin.java (2@
-!maxmin.main(String[])?i@5.12:5.13CALL
-maxmin.java (2@
-!maxmin.main(String[])?i@5.12:5.13CALL
-maxmin.java (2@
-!maxmin.main(String[])?n@5.15:5.16CALL
-maxmin.java (2@
-!maxmin.main(String[])?i@5.12:5.13CALL
-maxmin.java (2@
-!maxmin.main(String[])?a@9.12:9.15CALL
-maxmin.java (2@
-!maxmin.main(String[])?i@5.12:5.13CALL
-maxmin.java (2D
-%maxmin.main(String[])?max@14.12:14.15CALL
-maxmin.java (2D
-%maxmin.main(String[])?max@14.12:14.15CALL
-maxmin.java (2@
-!maxmin.main(String[])?a@9.12:9.15CALL
-maxmin.java (2@
-!maxmin.main(String[])?i@5.12:5.13CALL
-maxmin.java (2I
-*maxmin.main(String[])?maxindex@16.12:16.20CALL
-maxmin.java (2@
-!maxmin.main(String[])?i@5.12:5.13CALL
-maxmin.java (2@
-!maxmin.main(String[])?a@9.12:9.15CALL
-maxmin.java (2@
-!maxmin.main(String[])?i@5.12:5.13CALL
-maxmin.java (2D
-%maxmin.main(String[])?min@15.12:15.15CALL
-maxmin.java (!2D
-%maxmin.main(String[])?min@15.12:15.15CALL
-maxmin.java (2@
-!maxmin.main(String[])?a@9.12:9.15CALL
-maxmin.java (2@
-!maxmin.main(String[])?i@5.12:5.13CALL
-maxmin.java (2I
-*maxmin.main(String[])?minindex@17.12:17.20CALL
-maxmin.java (2@
-!maxmin.main(String[])?i@5.12:5.13CALL
-maxmin.java (2D
-%maxmin.main(String[])?max@14.12:14.15CALL
-maxmin.java@ (C2I
-*maxmin.main(String[])?maxindex@16.12:16.20CALL
-maxmin.javac (k2D
-%maxmin.main(String[])?min@15.12:15.15CALL
-maxmin.java@ (C2I
-*maxmin.main(String[])?minindex@17.12:17.20CALL
-maxmin.javac (k2A
-"maxmin.main(String[])?sc@4.16:4.18CALL
-maxmin.java   (
-2>
-maxmin.main(String[])!args	PARAMETER
-maxmin.java% ()2H
-"maxmin.main(String[])?sc@4.16:4.18DECLARATION
-maxmin.java (2G
-!maxmin.main(String[])?i@5.12:5.13DECLARATION
-maxmin.java (2G
-!maxmin.main(String[])?n@5.15:5.16DECLARATION
-maxmin.java (2G
-!maxmin.main(String[])?a@9.12:9.15DECLARATION
-maxmin.java	 	(2K
-%maxmin.main(String[])?max@14.12:14.15DECLARATION
-maxmin.java (2K
-%maxmin.main(String[])?min@15.12:15.15DECLARATION
-maxmin.java (2P
-*maxmin.main(String[])?maxindex@16.12:16.20DECLARATION
-maxmin.java (2P
-*maxmin.main(String[])?minindex@17.12:17.20DECLARATION
-maxmin.java (2*
-voidRETURN_TYPE
-maxmin.java (ò
-"maxmin.main(String[])?sc@4.16:4.18VARIABLE
-maxmin.java ("
-typeScanner"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc20
-java.util.ScannerTYPE
-maxmin.java (Ñ
-!maxmin.main(String[])?i@5.12:5.13VARIABLE
-maxmin.java ("
-typeint"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark>*i2"
-intTYPE
-maxmin.java (Ñ
-!maxmin.main(String[])?n@5.15:5.16VARIABLE
-maxmin.java ("
-typeint"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark>*n2"
-intTYPE
-maxmin.java (˜
-!maxmin.main(String[])?a@9.12:9.15VARIABLE
-maxmin.java	 	("
-typeint"
-isFinalfalse"¶
-declarationStringê<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">a</mark> = new <mark class="modifier">int</mark>[n]*a2$
-int[]TYPE
-maxmin.java	 	(2@
-!maxmin.main(String[])?n@5.15:5.16CALL
-maxmin.java	 	(÷
-%maxmin.main(String[])?max@14.12:14.15VARIABLE
-maxmin.java ("
-typeint"
-isFinalfalse"Å
-declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">max</mark> = a[0]*max2"
-intTYPE
-maxmin.java (2@
-!maxmin.main(String[])?a@9.12:9.15CALL
-maxmin.java (÷
-%maxmin.main(String[])?min@15.12:15.15VARIABLE
-maxmin.java ("
-typeint"
-isFinalfalse"Å
-declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">min</mark> = a[0]*min2"
-intTYPE
-maxmin.java (2@
-!maxmin.main(String[])?a@9.12:9.15CALL
-maxmin.java (†
-*maxmin.main(String[])?maxindex@16.12:16.20VARIABLE
-maxmin.java ("
-typeint"
-isFinalfalse"É
-declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">maxindex</mark> = 0*maxindex2"
-intTYPE
-maxmin.java (†
-*maxmin.main(String[])?minindex@17.12:17.20VARIABLE
-maxmin.java ("
-typeint"
-isFinalfalse"É
-declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">minindex</mark> = 0*minindex2"
-intTYPE
-maxmin.java (µ
-maxmin.main(String[])!args	PARAMETER
-maxmin.java% ()"
-typeString[]"
-isFinalfalse""
-declarationStringString[] args*args2'
-String[]TYPE
-maxmin.java ($

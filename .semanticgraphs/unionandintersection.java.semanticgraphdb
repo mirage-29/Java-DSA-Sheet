@@ -1,392 +1,0 @@
-
-unionandintersection.javaÿ
-unionandintersectionCLASS#
-unionandintersection.java (!"
-packageunionandintersection"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"r
-declarationString]<mark class="modifier">public </mark><mark class="modifier">class </mark>unionandintersection"
-accesspublic*unionandintersection2W
-#unionandintersection.main(String[])DECLARATION#
-unionandintersection.java (2c
-/unionandintersection.Intersection(int[], int[])DECLARATION#
-unionandintersection.java' '(2\
-(unionandintersection.Union(int[], int[])DECLARATION#
-unionandintersection.java5 5(Ò#
-#unionandintersection.main(String[])METHOD#
-unionandintersection.java ("
-isFinalfalse"≤
-declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
-isStatictrue"
-accesspublic"
-
-isAbstractfalse"
-typevoid*main2U
-(unionandintersection.Union(int[], int[])CALL#
-unionandintersection.java# #(2\
-/unionandintersection.Intersection(int[], int[])CALL#
-unionandintersection.java$ $(2\
-/unionandintersection.main(String[])?n@5.15:5.16CALL#
-unionandintersection.java (	2]
-0unionandintersection.main(String[])?sc@4.16:4.18CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?n@5.15:5.16CALL#
-unionandintersection.java	 	(2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?n@5.15:5.16CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?a@9.12:9.15CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java (2]
-0unionandintersection.main(String[])?sc@4.16:4.18CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?n@5.15:5.16CALL#
-unionandintersection.java (	2]
-0unionandintersection.main(String[])?sc@4.16:4.18CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?n@5.15:5.16CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?n@5.15:5.16CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java (2^
-1unionandintersection.main(String[])?b@18.12:18.15CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java (2]
-0unionandintersection.main(String[])?sc@4.16:4.18CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?n@5.15:5.16CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?a@9.12:9.15CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java ( 2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?n@5.15:5.16CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java (2^
-1unionandintersection.main(String[])?b@18.12:18.15CALL#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?i@5.12:5.13CALL#
-unionandintersection.java ( 2\
-/unionandintersection.main(String[])?a@9.12:9.15CALL#
-unionandintersection.java# #(2^
-1unionandintersection.main(String[])?b@18.12:18.15CALL#
-unionandintersection.java# #(2\
-/unionandintersection.main(String[])?a@9.12:9.15CALL#
-unionandintersection.java$ $(2^
-1unionandintersection.main(String[])?b@18.12:18.15CALL#
-unionandintersection.java$ $(2Z
-(unionandintersection.main(String[])!args	PARAMETER#
-unionandintersection.java% ()2d
-0unionandintersection.main(String[])?sc@4.16:4.18DECLARATION#
-unionandintersection.java (2c
-/unionandintersection.main(String[])?i@5.12:5.13DECLARATION#
-unionandintersection.java (2c
-/unionandintersection.main(String[])?n@5.15:5.16DECLARATION#
-unionandintersection.java (2c
-/unionandintersection.main(String[])?a@9.12:9.15DECLARATION#
-unionandintersection.java	 	(2e
-1unionandintersection.main(String[])?b@18.12:18.15DECLARATION#
-unionandintersection.java (28
-voidRETURN_TYPE#
-unionandintersection.java (¬
-0unionandintersection.main(String[])?sc@4.16:4.18VARIABLE#
-unionandintersection.java ("
-typeScanner"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2>
-java.util.ScannerTYPE#
-unionandintersection.java (Æ
-/unionandintersection.main(String[])?i@5.12:5.13VARIABLE#
-unionandintersection.java ("
-typeint"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark>*i20
-intTYPE#
-unionandintersection.java (Æ
-/unionandintersection.main(String[])?n@5.15:5.16VARIABLE#
-unionandintersection.java ("
-typeint"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark>*n20
-intTYPE#
-unionandintersection.java (Ω
-/unionandintersection.main(String[])?a@9.12:9.15VARIABLE#
-unionandintersection.java	 	("
-typeint"
-isFinalfalse"¶
-declarationStringê<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">a</mark> = new <mark class="modifier">int</mark>[n]*a22
-int[]TYPE#
-unionandintersection.java	 	(2\
-/unionandintersection.main(String[])?n@5.15:5.16CALL#
-unionandintersection.java	 	(ø
-1unionandintersection.main(String[])?b@18.12:18.15VARIABLE#
-unionandintersection.java ("
-typeint"
-isFinalfalse"¶
-declarationStringê<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">b</mark> = new <mark class="modifier">int</mark>[n]*b22
-int[]TYPE#
-unionandintersection.java (2\
-/unionandintersection.main(String[])?n@5.15:5.16CALL#
-unionandintersection.java (ﬂ
-(unionandintersection.main(String[])!args	PARAMETER#
-unionandintersection.java% ()"
-typeString[]"
-isFinalfalse""
-declarationStringString[] args*args25
-String[]TYPE#
-unionandintersection.java ($ñ
-/unionandintersection.Intersection(int[], int[])METHOD#
-unionandintersection.java' '("
-isFinalfalse"Ø
-declarationStringô<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">Intersection</mark>(<mark class="modifier">int</mark>[] a<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark>[] b)"
-isStatictrue"
-accesspackage_private"
-
-isAbstractfalse"
-typevoid*Intersection2j
-=unionandintersection.Intersection(int[], int[])?i@41.12:41.13CALL#
-unionandintersection.java* *(2j
-=unionandintersection.Intersection(int[], int[])?i@41.12:41.13CALL#
-unionandintersection.java* *(2^
-1unionandintersection.Intersection(int[], int[])!aCALL#
-unionandintersection.java* *(2j
-=unionandintersection.Intersection(int[], int[])?i@41.12:41.13CALL#
-unionandintersection.java*" *(#2j
-=unionandintersection.Intersection(int[], int[])?j@41.15:41.16CALL#
-unionandintersection.java+ +(2j
-=unionandintersection.Intersection(int[], int[])?j@41.15:41.16CALL#
-unionandintersection.java+ +(2^
-1unionandintersection.Intersection(int[], int[])!bCALL#
-unionandintersection.java+ +(2j
-=unionandintersection.Intersection(int[], int[])?j@41.15:41.16CALL#
-unionandintersection.java+& +('2^
-1unionandintersection.Intersection(int[], int[])!aCALL#
-unionandintersection.java, ,(2j
-=unionandintersection.Intersection(int[], int[])?i@41.12:41.13CALL#
-unionandintersection.java, ,(2^
-1unionandintersection.Intersection(int[], int[])!bCALL#
-unionandintersection.java, ,(2j
-=unionandintersection.Intersection(int[], int[])?j@41.15:41.16CALL#
-unionandintersection.java, ,(2^
-1unionandintersection.Intersection(int[], int[])!aCALL#
-unionandintersection.java-% -(&2j
-=unionandintersection.Intersection(int[], int[])?i@41.12:41.13CALL#
-unionandintersection.java-' -((2c
-1unionandintersection.Intersection(int[], int[])!a	PARAMETER#
-unionandintersection.java'# '($2c
-1unionandintersection.Intersection(int[], int[])!b	PARAMETER#
-unionandintersection.java', '(-2q
-=unionandintersection.Intersection(int[], int[])?i@41.12:41.13DECLARATION#
-unionandintersection.java) )(2q
-=unionandintersection.Intersection(int[], int[])?j@41.15:41.16DECLARATION#
-unionandintersection.java) )(28
-voidRETURN_TYPE#
-unionandintersection.java' '(º
-=unionandintersection.Intersection(int[], int[])?i@41.12:41.13VARIABLE#
-unionandintersection.java) )("
-typeint"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark>*i20
-intTYPE#
-unionandintersection.java) )(º
-=unionandintersection.Intersection(int[], int[])?j@41.15:41.16VARIABLE#
-unionandintersection.java) )("
-typeint"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark>*j20
-intTYPE#
-unionandintersection.java) )(˜
-1unionandintersection.Intersection(int[], int[])!a	PARAMETER#
-unionandintersection.java'# '($"
-typeint[]"
-isFinalfalse":
-declarationString%<mark class="modifier">int</mark>[] a*a22
-int[]TYPE#
-unionandintersection.java' '("˜
-1unionandintersection.Intersection(int[], int[])!b	PARAMETER#
-unionandintersection.java', '(-"
-typeint[]"
-isFinalfalse":
-declarationString%<mark class="modifier">int</mark>[] b*b22
-int[]TYPE#
-unionandintersection.java'& '(+é$
-(unionandintersection.Union(int[], int[])METHOD#
-unionandintersection.java5 5("
-isFinalfalse"®
-declarationStringí<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">Union</mark>(<mark class="modifier">int</mark>[] a<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark>[] b)"
-isStatictrue"
-accesspackage_private"
-
-isAbstractfalse"
-typevoid*Union2W
-*unionandintersection.Union(int[], int[])!aCALL#
-unionandintersection.java7 7(2W
-*unionandintersection.Union(int[], int[])!bCALL#
-unionandintersection.java7% 7(&2c
-6unionandintersection.Union(int[], int[])?i@56.17:56.18CALL#
-unionandintersection.java8 8(2W
-*unionandintersection.Union(int[], int[])!aCALL#
-unionandintersection.java8 8(2c
-6unionandintersection.Union(int[], int[])?i@56.17:56.18CALL#
-unionandintersection.java8& 8('2c
-6unionandintersection.Union(int[], int[])?c@55.12:55.15CALL#
-unionandintersection.java9 9(2c
-6unionandintersection.Union(int[], int[])?i@56.17:56.18CALL#
-unionandintersection.java9 9(2W
-*unionandintersection.Union(int[], int[])!aCALL#
-unionandintersection.java9 9(2c
-6unionandintersection.Union(int[], int[])?i@56.17:56.18CALL#
-unionandintersection.java9 9(2W
-*unionandintersection.Union(int[], int[])!aCALL#
-unionandintersection.java; ;(2c
-6unionandintersection.Union(int[], int[])?i@61.17:61.18CALL#
-unionandintersection.java= =(2W
-*unionandintersection.Union(int[], int[])!bCALL#
-unionandintersection.java= =(2c
-6unionandintersection.Union(int[], int[])?i@61.17:61.18CALL#
-unionandintersection.java=& =('2c
-6unionandintersection.Union(int[], int[])?k@62.16:62.17CALL#
-unionandintersection.java? ?(2c
-6unionandintersection.Union(int[], int[])?k@62.16:62.17CALL#
-unionandintersection.java? ?(2c
-6unionandintersection.Union(int[], int[])?c@55.12:55.15CALL#
-unionandintersection.java? ?(2c
-6unionandintersection.Union(int[], int[])?k@62.16:62.17CALL#
-unionandintersection.java?& ?('2W
-*unionandintersection.Union(int[], int[])!bCALL#
-unionandintersection.java@ @(2c
-6unionandintersection.Union(int[], int[])?i@61.17:61.18CALL#
-unionandintersection.java@ @(2c
-6unionandintersection.Union(int[], int[])?c@55.12:55.15CALL#
-unionandintersection.java@ @(2c
-6unionandintersection.Union(int[], int[])?k@62.16:62.17CALL#
-unionandintersection.java@ @(2c
-6unionandintersection.Union(int[], int[])?k@62.16:62.17CALL#
-unionandintersection.javaC C(2c
-6unionandintersection.Union(int[], int[])?c@55.12:55.15CALL#
-unionandintersection.javaC C(2c
-6unionandintersection.Union(int[], int[])?c@55.12:55.15CALL#
-unionandintersection.javaD D(2c
-6unionandintersection.Union(int[], int[])?j@59.12:59.13CALL#
-unionandintersection.javaD D(2W
-*unionandintersection.Union(int[], int[])!bCALL#
-unionandintersection.javaD D(2c
-6unionandintersection.Union(int[], int[])?i@61.17:61.18CALL#
-unionandintersection.javaD D(2c
-6unionandintersection.Union(int[], int[])?j@59.12:59.13CALL#
-unionandintersection.javaE E(2c
-6unionandintersection.Union(int[], int[])?i@74.17:74.18CALL#
-unionandintersection.javaJ J(2c
-6unionandintersection.Union(int[], int[])?j@59.12:59.13CALL#
-unionandintersection.javaJ J(2c
-6unionandintersection.Union(int[], int[])?i@74.17:74.18CALL#
-unionandintersection.javaJ J( 2c
-6unionandintersection.Union(int[], int[])?c@55.12:55.15CALL#
-unionandintersection.javaK K(2c
-6unionandintersection.Union(int[], int[])?i@74.17:74.18CALL#
-unionandintersection.javaK K( 2\
-*unionandintersection.Union(int[], int[])!a	PARAMETER#
-unionandintersection.java5 5(2\
-*unionandintersection.Union(int[], int[])!b	PARAMETER#
-unionandintersection.java5% 5(&2j
-6unionandintersection.Union(int[], int[])?c@55.12:55.15DECLARATION#
-unionandintersection.java7 7(2j
-6unionandintersection.Union(int[], int[])?i@56.17:56.18DECLARATION#
-unionandintersection.java8 8(2j
-6unionandintersection.Union(int[], int[])?j@59.12:59.13DECLARATION#
-unionandintersection.java; ;(2j
-6unionandintersection.Union(int[], int[])?i@61.17:61.18DECLARATION#
-unionandintersection.java= =(2j
-6unionandintersection.Union(int[], int[])?k@62.16:62.17DECLARATION#
-unionandintersection.java> >(2j
-6unionandintersection.Union(int[], int[])?i@74.17:74.18DECLARATION#
-unionandintersection.javaJ J(28
-voidRETURN_TYPE#
-unionandintersection.java5 5(™
-6unionandintersection.Union(int[], int[])?c@55.12:55.15VARIABLE#
-unionandintersection.java7 7("
-typeint"
-isFinalfalse"∏
-declarationString¢<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">c</mark> = new <mark class="modifier">int</mark>[a.length + b.length]*c22
-int[]TYPE#
-unionandintersection.java7 7(2W
-*unionandintersection.Union(int[], int[])!aCALL#
-unionandintersection.java7 7(2W
-*unionandintersection.Union(int[], int[])!bCALL#
-unionandintersection.java7% 7(&π
-6unionandintersection.Union(int[], int[])?i@56.17:56.18VARIABLE#
-unionandintersection.java8 8("
-typeint"
-isFinalfalse"|
-declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i20
-intTYPE#
-unionandintersection.java8 8(ö
-6unionandintersection.Union(int[], int[])?j@59.12:59.13VARIABLE#
-unionandintersection.java; ;("
-typeint"
-isFinalfalse"É
-declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = a.length*j20
-intTYPE#
-unionandintersection.java; ;(2W
-*unionandintersection.Union(int[], int[])!aCALL#
-unionandintersection.java; ;(π
-6unionandintersection.Union(int[], int[])?i@61.17:61.18VARIABLE#
-unionandintersection.java= =("
-typeint"
-isFinalfalse"|
-declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i20
-intTYPE#
-unionandintersection.java= =(µ
-6unionandintersection.Union(int[], int[])?k@62.16:62.17VARIABLE#
-unionandintersection.java> >("
-typeint"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark>*k20
-intTYPE#
-unionandintersection.java> >(π
-6unionandintersection.Union(int[], int[])?i@74.17:74.18VARIABLE#
-unionandintersection.javaJ J("
-typeint"
-isFinalfalse"|
-declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i20
-intTYPE#
-unionandintersection.javaJ J(
-*unionandintersection.Union(int[], int[])!a	PARAMETER#
-unionandintersection.java5 5("
-typeint[]"
-isFinalfalse":
-declarationString%<mark class="modifier">int</mark>[] a*a22
-int[]TYPE#
-unionandintersection.java5 5(
-*unionandintersection.Union(int[], int[])!b	PARAMETER#
-unionandintersection.java5% 5(&"
-typeint[]"
-isFinalfalse":
-declarationString%<mark class="modifier">int</mark>[] b*b22
-int[]TYPE#
-unionandintersection.java5 5($

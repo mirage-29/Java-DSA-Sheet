@@ -1,160 +1,0 @@
-
-arrrev.java≥
-arrrevCLASS
-arrrev.java ("
-packagearrrev"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"d
-declarationStringO<mark class="modifier">public </mark><mark class="modifier">class </mark>arrrev"
-accesspublic*arrrev2;
-arrrev.main(String[])DECLARATION
-arrrev.java (æ
-arrrev.main(String[])METHOD
-arrrev.java ("
-isFinalfalse"≤
-declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
-isStatictrue"
-accesspublic"
-
-isAbstractfalse"
-typevoid*main2@
-!arrrev.main(String[])?n@5.15:5.16CALL
-arrrev.java (	2A
-"arrrev.main(String[])?sc@4.16:4.18CALL
-arrrev.java (2@
-!arrrev.main(String[])?n@5.15:5.16CALL
-arrrev.java	 	(2@
-!arrrev.main(String[])?i@5.12:5.13CALL
-arrrev.java (2@
-!arrrev.main(String[])?i@5.12:5.13CALL
-arrrev.java (2@
-!arrrev.main(String[])?n@5.15:5.16CALL
-arrrev.java (2@
-!arrrev.main(String[])?i@5.12:5.13CALL
-arrrev.java (2@
-!arrrev.main(String[])?a@9.12:9.15CALL
-arrrev.java (2@
-!arrrev.main(String[])?i@5.12:5.13CALL
-arrrev.java (2A
-"arrrev.main(String[])?sc@4.16:4.18CALL
-arrrev.java (2@
-!arrrev.main(String[])?n@5.15:5.16CALL
-arrrev.java (2@
-!arrrev.main(String[])?i@5.12:5.13CALL
-arrrev.java (	2@
-!arrrev.main(String[])?i@5.12:5.13CALL
-arrrev.java (2B
-#arrrev.main(String[])?s@14.12:14.13CALL
-arrrev.java (2@
-!arrrev.main(String[])?a@9.12:9.15CALL
-arrrev.java (2@
-!arrrev.main(String[])?i@5.12:5.13CALL
-arrrev.java (2@
-!arrrev.main(String[])?a@9.12:9.15CALL
-arrrev.java (2@
-!arrrev.main(String[])?i@5.12:5.13CALL
-arrrev.java (2@
-!arrrev.main(String[])?a@9.12:9.15CALL
-arrrev.java (2B
-#arrrev.main(String[])?s@14.12:14.13CALL
-arrrev.java (2@
-!arrrev.main(String[])?a@9.12:9.15CALL
-arrrev.java (2B
-#arrrev.main(String[])?s@14.12:14.13CALL
-arrrev.java (2B
-#arrrev.main(String[])?t@17.16:17.17CALL
-arrrev.java (2@
-!arrrev.main(String[])?i@5.12:5.13CALL
-arrrev.java (2B
-#arrrev.main(String[])?s@14.12:14.13CALL
-arrrev.java (2@
-!arrrev.main(String[])?i@5.12:5.13CALL
-arrrev.java (2@
-!arrrev.main(String[])?i@5.12:5.13CALL
-arrrev.java (2@
-!arrrev.main(String[])?n@5.15:5.16CALL
-arrrev.java (2@
-!arrrev.main(String[])?i@5.12:5.13CALL
-arrrev.java (2@
-!arrrev.main(String[])?a@9.12:9.15CALL
-arrrev.java ( 2@
-!arrrev.main(String[])?i@5.12:5.13CALL
-arrrev.java! ("2A
-"arrrev.main(String[])?sc@4.16:4.18CALL
-arrrev.java (
-2>
-arrrev.main(String[])!args	PARAMETER
-arrrev.java% ()2H
-"arrrev.main(String[])?sc@4.16:4.18DECLARATION
-arrrev.java (2G
-!arrrev.main(String[])?i@5.12:5.13DECLARATION
-arrrev.java (2G
-!arrrev.main(String[])?n@5.15:5.16DECLARATION
-arrrev.java (2G
-!arrrev.main(String[])?a@9.12:9.15DECLARATION
-arrrev.java	 	(2I
-#arrrev.main(String[])?s@14.12:14.13DECLARATION
-arrrev.java (2I
-#arrrev.main(String[])?t@17.16:17.17DECLARATION
-arrrev.java (2*
-voidRETURN_TYPE
-arrrev.java (ò
-"arrrev.main(String[])?sc@4.16:4.18VARIABLE
-arrrev.java ("
-typeScanner"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc20
-java.util.ScannerTYPE
-arrrev.java (Ñ
-!arrrev.main(String[])?i@5.12:5.13VARIABLE
-arrrev.java ("
-typeint"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark>*i2"
-intTYPE
-arrrev.java (Ñ
-!arrrev.main(String[])?n@5.15:5.16VARIABLE
-arrrev.java ("
-typeint"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark>*n2"
-intTYPE
-arrrev.java (˜
-!arrrev.main(String[])?a@9.12:9.15VARIABLE
-arrrev.java	 	("
-typeint"
-isFinalfalse"¶
-declarationStringê<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">a</mark> = new <mark class="modifier">int</mark>[n]*a2$
-int[]TYPE
-arrrev.java	 	(2@
-!arrrev.main(String[])?n@5.15:5.16CALL
-arrrev.java	 	(—
-#arrrev.main(String[])?s@14.12:14.13VARIABLE
-arrrev.java ("
-typeint"
-isFinalfalse"Ä
-declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">s</mark> = n - 1*s2"
-intTYPE
-arrrev.java (2@
-!arrrev.main(String[])?n@5.15:5.16CALL
-arrrev.java (ë
-#arrrev.main(String[])?t@17.16:17.17VARIABLE
-arrrev.java ("
-typeint"
-isFinalfalse"
-declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">t</mark> = a[i]*t2"
-intTYPE
-arrrev.java (2@
-!arrrev.main(String[])?a@9.12:9.15CALL
-arrrev.java (2@
-!arrrev.main(String[])?i@5.12:5.13CALL
-arrrev.java (µ
-arrrev.main(String[])!args	PARAMETER
-arrrev.java% ()"
-typeString[]"
-isFinalfalse""
-declarationStringString[] args*args2'
-String[]TYPE
-arrrev.java ($

@@ -1,94 +1,0 @@
-
-arraysum.javaÁ
-arraysumCLASS
-arraysum.java ("
-packagearraysum"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"f
-declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>arraysum"
-accesspublic*arraysum2?
-arraysum.main(String[])DECLARATION
-arraysum.java (Ï
-arraysum.main(String[])METHOD
-arraysum.java ("
-isFinalfalse"²
-declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
-isStatictrue"
-accesspublic"
-
-isAbstractfalse"
-typevoid*main2D
-#arraysum.main(String[])?i@7.17:7.18CALL
-arraysum.java (2F
-%arraysum.main(String[])?arr@4.14:4.17CALL
-arraysum.java (2D
-#arraysum.main(String[])?i@7.17:7.18CALL
-arraysum.java( ()2F
-%arraysum.main(String[])?arr@4.14:4.17CALL
-arraysum.java (2D
-#arraysum.main(String[])?i@7.17:7.18CALL
-arraysum.java (2E
-$arraysum.main(String[])?sc@3.16:3.18CALL
-arraysum.java (2F
-%arraysum.main(String[])?sum@5.12:5.15CALL
-arraysum.java	 	(2F
-%arraysum.main(String[])?arr@4.14:4.17CALL
-arraysum.java	 	(2D
-#arraysum.main(String[])?i@7.17:7.18CALL
-arraysum.java	 	(2F
-%arraysum.main(String[])?sum@5.12:5.15CALL
-arraysum.java7 (:2F
-%arraysum.main(String[])?sum@5.12:5.15CALL
-arraysum.java (2E
-$arraysum.main(String[])?sc@3.16:3.18CALL
-arraysum.java (
-2B
-arraysum.main(String[])!args	PARAMETER
-arraysum.java% ()2L
-$arraysum.main(String[])?sc@3.16:3.18DECLARATION
-arraysum.java (2M
-%arraysum.main(String[])?arr@4.14:4.17DECLARATION
-arraysum.java (2M
-%arraysum.main(String[])?sum@5.12:5.15DECLARATION
-arraysum.java (2K
-#arraysum.main(String[])?i@7.17:7.18DECLARATION
-arraysum.java (2,
-voidRETURN_TYPE
-arraysum.java (ž
-$arraysum.main(String[])?sc@3.16:3.18VARIABLE
-arraysum.java ("
-typeScanner"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc22
-java.util.ScannerTYPE
-arraysum.java (Á
-%arraysum.main(String[])?arr@4.14:4.17VARIABLE
-arraysum.java ("
-typeint"
-isFinalfalse"¨
-declarationString’<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[5]*arr2&
-int[]TYPE
-arraysum.java (”
-%arraysum.main(String[])?sum@5.12:5.15VARIABLE
-arraysum.java ("
-typeint"
-isFinalfalse"~
-declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = 0*sum2$
-intTYPE
-arraysum.java (Ž
-#arraysum.main(String[])?i@7.17:7.18VARIABLE
-arraysum.java ("
-typeint"
-isFinalfalse"|
-declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2$
-intTYPE
-arraysum.java (»
-arraysum.main(String[])!args	PARAMETER
-arraysum.java% ()"
-typeString[]"
-isFinalfalse""
-declarationStringString[] args*args2)
-String[]TYPE
-arraysum.java ($
