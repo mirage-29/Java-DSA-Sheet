@@ -2,7 +2,7 @@ package Stack;
 
 import java.util.ArrayList;
 
-public class Stack {
+public class Stackmake {
 
     private ArrayList<Integer> stack = new ArrayList<>();
 
@@ -41,7 +41,7 @@ public class Stack {
     }
 
     public static void main(String[] args) {
-        Stack stack = new Stack();
+        Stackmake stack = new Stackmake();
         stack.push(78);
         stack.push(58);
         stack.push(43);
